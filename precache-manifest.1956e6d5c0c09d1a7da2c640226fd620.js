@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff1993030a637e6f61693e70c2d5fda0",
+    "revision": "bb1bbf640eff301b41e7d6075838ff7c",
     "url": "/lastui/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lastui/static/css/2.9a44717d.chunk.css"
   },
   {
-    "revision": "60bc97e1875967d0b43d",
+    "revision": "9fa006ad7e5d3de22834",
     "url": "/lastui/static/css/main.772e30cf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lastui/static/js/2.34c91f68.chunk.js.LICENSE"
   },
   {
-    "revision": "60bc97e1875967d0b43d",
-    "url": "/lastui/static/js/main.9494c18a.chunk.js"
+    "revision": "9fa006ad7e5d3de22834",
+    "url": "/lastui/static/js/main.ac23bd92.chunk.js"
   },
   {
     "revision": "8fdeda937066085a6dd2",
