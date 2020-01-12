@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/lastui/static/css/main.772e30cf.chunk.css",
+    "main.js": "/lastui/static/js/main.5830c797.chunk.js",
+    "main.js.map": "/lastui/static/js/main.5830c797.chunk.js.map",
+    "runtime-main.js": "/lastui/static/js/runtime-main.c140adfc.js",
+    "runtime-main.js.map": "/lastui/static/js/runtime-main.c140adfc.js.map",
+    "static/css/2.9a44717d.chunk.css": "/lastui/static/css/2.9a44717d.chunk.css",
+    "static/js/2.34c91f68.chunk.js": "/lastui/static/js/2.34c91f68.chunk.js",
+    "static/js/2.34c91f68.chunk.js.map": "/lastui/static/js/2.34c91f68.chunk.js.map",
+    "index.html": "/lastui/index.html",
+    "precache-manifest.7f2c9b591ee06dd3a4b99cecc4e6ad0d.js": "/lastui/precache-manifest.7f2c9b591ee06dd3a4b99cecc4e6ad0d.js",
+    "service-worker.js": "/lastui/service-worker.js",
+    "static/css/2.9a44717d.chunk.css.map": "/lastui/static/css/2.9a44717d.chunk.css.map",
+    "static/css/main.772e30cf.chunk.css.map": "/lastui/static/css/main.772e30cf.chunk.css.map",
+    "static/js/2.34c91f68.chunk.js.LICENSE": "/lastui/static/js/2.34c91f68.chunk.js.LICENSE",
+    "static/media/avatar.png": "/lastui/static/media/avatar.afeab39d.png",
+    "static/media/logo.svg": "/lastui/static/media/logo.5d5d9eef.svg",
+    "static/media/notifications.css": "/lastui/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c140adfc.js",
+    "static/css/2.9a44717d.chunk.css",
+    "static/js/2.34c91f68.chunk.js",
+    "static/css/main.772e30cf.chunk.css",
+    "static/js/main.5830c797.chunk.js"
+  ]
+}
