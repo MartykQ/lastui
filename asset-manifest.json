@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lastui/static/css/main.8cab75a3.chunk.css",
-    "main.js": "/lastui/static/js/main.3c84b2b2.chunk.js",
-    "main.js.map": "/lastui/static/js/main.3c84b2b2.chunk.js.map",
+    "main.js": "/lastui/static/js/main.7eb99a8a.chunk.js",
+    "main.js.map": "/lastui/static/js/main.7eb99a8a.chunk.js.map",
     "runtime-main.js": "/lastui/static/js/runtime-main.c140adfc.js",
     "runtime-main.js.map": "/lastui/static/js/runtime-main.c140adfc.js.map",
     "static/css/2.9a44717d.chunk.css": "/lastui/static/css/2.9a44717d.chunk.css",
     "static/js/2.d0e859ff.chunk.js": "/lastui/static/js/2.d0e859ff.chunk.js",
     "static/js/2.d0e859ff.chunk.js.map": "/lastui/static/js/2.d0e859ff.chunk.js.map",
     "index.html": "/lastui/index.html",
-    "precache-manifest.9a6d6ea8a5ebb8a8adbcf82e8e8ad586.js": "/lastui/precache-manifest.9a6d6ea8a5ebb8a8adbcf82e8e8ad586.js",
+    "precache-manifest.2f069949169c7f980ddc34004b3d1af5.js": "/lastui/precache-manifest.2f069949169c7f980ddc34004b3d1af5.js",
     "service-worker.js": "/lastui/service-worker.js",
     "static/css/2.9a44717d.chunk.css.map": "/lastui/static/css/2.9a44717d.chunk.css.map",
     "static/css/main.8cab75a3.chunk.css.map": "/lastui/static/css/main.8cab75a3.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.9a44717d.chunk.css",
     "static/js/2.d0e859ff.chunk.js",
     "static/css/main.8cab75a3.chunk.css",
-    "static/js/main.3c84b2b2.chunk.js"
+    "static/js/main.7eb99a8a.chunk.js"
   ]
 }
