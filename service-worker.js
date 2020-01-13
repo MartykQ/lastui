@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lastui/precache-manifest.1956e6d5c0c09d1a7da2c640226fd620.js"
+  "/lastui/precache-manifest.bbb4f284af1ba4cc66b04e237fd8a6df.js"
 );
 
 self.addEventListener('message', (event) => {

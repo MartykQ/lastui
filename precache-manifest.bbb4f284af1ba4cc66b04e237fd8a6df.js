@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb1bbf640eff301b41e7d6075838ff7c",
+    "revision": "a7027d6f005874db6affbaba5d6a3670",
     "url": "/lastui/index.html"
   },
   {
-    "revision": "e102d8c035bde37c2471",
+    "revision": "7984bf8c8bff531d8609",
     "url": "/lastui/static/css/2.9a44717d.chunk.css"
   },
   {
-    "revision": "9fa006ad7e5d3de22834",
-    "url": "/lastui/static/css/main.772e30cf.chunk.css"
+    "revision": "2918c3482bcbf7cc7a08",
+    "url": "/lastui/static/css/main.8cab75a3.chunk.css"
   },
   {
-    "revision": "e102d8c035bde37c2471",
-    "url": "/lastui/static/js/2.34c91f68.chunk.js"
+    "revision": "7984bf8c8bff531d8609",
+    "url": "/lastui/static/js/2.d0e859ff.chunk.js"
   },
   {
     "revision": "53b91fb6912e14c9689b5be87306d93a",
-    "url": "/lastui/static/js/2.34c91f68.chunk.js.LICENSE"
+    "url": "/lastui/static/js/2.d0e859ff.chunk.js.LICENSE"
   },
   {
-    "revision": "9fa006ad7e5d3de22834",
-    "url": "/lastui/static/js/main.ac23bd92.chunk.js"
+    "revision": "2918c3482bcbf7cc7a08",
+    "url": "/lastui/static/js/main.438fdad5.chunk.js"
   },
   {
     "revision": "8fdeda937066085a6dd2",
